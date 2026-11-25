@@ -1908,6 +1908,14 @@ URL:https://www.burg-wilhelmstein.com/veranstaltungen/spider-murphy-gang-2
  027/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Safri Duo
+DTSTART:20270814T180000Z
+DURATION:PT2H
+UID:02262ad6e513199791678c5f1adb6d84
+LOCATION:Burg Wilhelmstein\, 52146 Würselen
+URL:https://www.burg-wilhelmstein.com/veranstaltungen/safri-duo/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alain Frei – Jetzt!
 DTSTART:20270821T173000Z
 DURATION:PT2H
